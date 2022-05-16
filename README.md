@@ -1,4 +1,4 @@
-# Module_A workshop Python 20 mei om 10:00
+# Python voor actuarieel professionals 17 mei om 10:00 online
 
 Deze repo bevat de data en het notebook die we gaan gebruiken op de workshop.
 
