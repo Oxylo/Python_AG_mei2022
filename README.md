@@ -1,6 +1,6 @@
 # Python voor actuarieel professionals 17 mei om 10:00 online
 
-Deze repo bevat de data en het notebook die we gaan gebruiken op de workshop.
+Deze repo bevat de data en de notebooks die we gaan gebruiken tijdens de cursus.
 
 # Download instructies
 
